@@ -39,3 +39,19 @@
     * 2-pages summary
     * scientific poster
     * the slides used in a video where I'm demonstrating what I've done in this project. [video link](https://nileuniversity-my.sharepoint.com/:v:/g/personal/g_gad_nu_edu_eg/Ef9wmxNNZ-hIpFQOoi-T9nMBkrgELqQzuk7HG-qnFL5fCw?e=FKGguw)
+    
+    
+## References
+
+This work wouldn't have been possible without the valuable information I got from:
+* [Eigenfaces and Forms](https://wellecks.wordpress.com/tag/eigenfaces/)
+* [Geometric explanation of PCA](https://learnche.org/pid/latent-variable-modelling/principal-component-analysis/geometric-explanation-of-pca)
+* [kagan94 repository (important)](https://github.com/kagan94/Face-recognition-via-SVD-and-PCA)
+* [learn opencv (important)](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
+* [wellecs repository this](https://github.com/wellecks/eigenfaces)
+* [Dimensionality Reduction with SVD | Stanford University](https://www.youtube.com/watch?v=UyAfmAZU_WI&list=WL&index=57&t=389s)
+* [PCA, SVD](https://www.youtube.com/watch?v=F-nfsSq42ow&list=WL&index=41&t=0s)
+* [singular value decomposition SVD (very important)](https://www.youtube.com/watch?v=EokL7E6o1AE)
+* [principle component analysis PCA (very important)](https://www.youtube.com/watch?v=a9jdQGybYmE)
+* [PCA for face recognition using matlab (very important)](https://www.youtube.com/watch?v=8BTv-KZ2Bh8)
+* [Prof. J. Nathan Kutz book (very important)](https://www.amazon.com/Data-Driven-Modeling-Scientific-Computation-Methods-ebook/dp/B00ELK24DG/ref=sr_1_2?qid=1562096570&refinements=p_27%3AJ.+Nathan+Kutz&s=digital-text&sr=1-2)
