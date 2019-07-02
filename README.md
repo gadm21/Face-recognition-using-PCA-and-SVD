@@ -1,2 +1,30 @@
 # Face-recognition-using-PCA-and-SVD
-Human beings can detect and recognize faces skillfully even when conditions like face expression, lighting condition, or viewing angle change. In this paper, we describe a procedure for facial recognition using PCA and SVD after explaining both concepts thoroughly. To validate our theoretical results, we develop a facial recognition application that are efficient even under the change of the mentioned conditions using linear dimensionality reduction techniques. We've also found that the dimensionality reduction technique used in face recognition can be used for image compression and this is also validated in the results.
+
+## requirements
+- python 2.7
+- cv2
+- os
+- numpy
+
+
+
+
+## process
+1. put `main.py`, `extension.py`, and your dataset of face images in a folder named `images` all in one folder.
+
+
+2. the first line in the `main` function in the `main.py` file is:```python mode= True ```
+
+    there are two modes of operation determined by that `mode` variable:
+
+   * if set to `True`: the program will detect the face infront of the camera and, automatically, open another window containing the image in the dataset of the face closest to the face infront of the camera.
+    ![](https://github.com/gadm21/Face-recognition-using-PCA-and-SVD/imgs/mode_true.PNG)
+   * if set to `False`: the program will detect the face infront of the camera and whenever the key `p` is pressed, the detected face (i.e. the image inside the green box) will be saved to the `images` folder.
+    ![](https://github.com/gadm21/Face-recognition-using-PCA-and-SVD/imgs/mode_false.PNG)
+
+3. Run the `main.py` file
+
+
+4. press `q` to quit
+
+ 
