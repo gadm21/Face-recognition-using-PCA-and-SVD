@@ -10,7 +10,7 @@
 
 
 ## process
-1. put `main.py`, `extension.py`, `haarcascade_frontalface.xml`, and your dataset of face images in a folder named `images` all in one folder.
+1. put `main.py`, `extension.py`, `haarcascade_frontalface.xml`, and a folder named `images` containing the dataset all in one folder.
 
 
 2. the first line in the `main` function in the `main.py` file is:```python mode= True ```
